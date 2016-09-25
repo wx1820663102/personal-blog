@@ -1,0 +1,245 @@
+[ 2016-08-07T07:02:36+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 3  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:38+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0060s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 2  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:40+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 4  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:41+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 5  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:43+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0050s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 6  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:50+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 5  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0050s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 2  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0060s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 3  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:02:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0050s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 5  [ RunTime:0.0010s ]
+
+[ 2016-08-07T07:16:29+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:16:40+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:19:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:19:07+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:19:09+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:23+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:33+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:34+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:39+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:41+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:22:42+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:23:29+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:24:49+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:25:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.html
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:25:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login.
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:25:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: 无法加载控制器:Manger
+
+[ 2016-08-07T07:25:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-07T07:26:42+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/login
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\login.html"  on line 46 "&lt;input class=&quot;input-text size-L&quot; type=&quot;text&quot; placeholder=&quot;验证码&quot; onblur=&quot;if(this.value==''){this.value='验证码:'}&quot; onclick=&quot;if(this.value=='验证码:'){this.value='';}&quot; value=&quot;验证码:&quot; style=&quot;width:150px;&quot;&gt;"  - Unexpected ".", expected one of: "}" , " "
+
+[ 2016-08-07T07:28:02+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2016-08-07T07:28:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-08-07T07:28:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-08-07T07:28:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2016-08-07T07:28:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/Hui-iconfont/1.0.7/iconfont.css
+ERR: 非法操作:lib
+
+[ 2016-08-07T07:28:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/css/H-ui.login.css
+ERR: 非法操作:static
+
+[ 2016-08-07T07:30:06+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/index.html
+ERR: 非法操作:index
+
+[ 2016-08-07T07:38:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/index
+ERR: 非法操作:index
+
+[ 2016-08-07T07:40:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-08-07T07:41:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-08-07T07:50:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.5195293219294399
+ERR: 非法操作:verifyImg0.5195293219294399
+
+[ 2016-08-07T07:50:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.28136740741319954
+ERR: 非法操作:verifyImg0.28136740741319954
+
+[ 2016-08-07T07:51:02+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.377871987875551
+ERR: 非法操作:verifyImg0.377871987875551
+
+[ 2016-08-07T07:51:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.8723406898789108
+ERR: 非法操作:verifyImg0.8723406898789108
+
+[ 2016-08-07T07:51:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.12958168447948992
+ERR: 非法操作:verifyImg0.12958168447948992
+
+[ 2016-08-07T07:51:09+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg0.8323238512966782
+ERR: 非法操作:verifyImg0.8323238512966782
+
+[ 2016-08-07T07:52:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/verifyImg
+ERR: 非法操作:verifyImg
+
+[ 2016-08-07T08:43:29+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/logout
+ERR: 非法操作:logout
+
+[ 2016-08-07T08:45:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/logout
+ERR: 非法操作:logout
+
+[ 2016-08-07T09:14:33+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-base.html
+ERR: 非法操作:system-base
+
+[ 2016-08-07T13:30:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-07T14:24:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0000s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 2  [ RunTime:0.0624s ]
+
+[ 2016-08-07T14:24:12+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 4  [ RunTime:0.0010s ]
+
+[ 2016-08-07T14:24:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0080s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 5  [ RunTime:0.0010s ]
+
+[ 2016-08-07T14:24:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0010s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 6  [ RunTime:0.0000s ]
+
+[ 2016-08-07T14:24:31+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0000s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 2  [ RunTime:0.0000s ]
+
+[ 2016-08-07T14:37:33+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0000s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 2  [ RunTime:0.0000s ]
+
+[ 2016-08-07T14:41:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0070s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 4  [ RunTime:0.0010s ]
+
+[ 2016-08-07T14:54:24+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/ajax?category_id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `blog_tag` [ RunTime:0.0000s ]
+SQL: SELECT `tag_id`,`category_id`,`tagname` FROM `blog_tag` WHERE `category_id` = 4  [ RunTime:0.0000s ]
+
+[ 2016-08-07T15:20:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/articleadd.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Article\articleadd.html"  on line 118 "&lt;img src=&quot;{$smarty.files.article_pic.name}&quot; style=&quot;width:150px;height:100px;&quot;&gt;" $smarty.files is invalid
+
+[ 2016-08-07T15:20:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/articleadd.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Article\articleadd.html"  on line 118 "&lt;img src=&quot;{$smarty.files.article_pic.name}&quot; style=&quot;width:150px;" $smarty.files is invalid
+
+[ 2016-08-07T15:21:50+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/__FILES__
+ERR: 非法操作:__FILES__
+

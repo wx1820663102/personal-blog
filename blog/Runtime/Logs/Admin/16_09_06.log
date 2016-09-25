@@ -1,0 +1,306 @@
+[ 2016-09-06T11:02:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/welcome.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Index\welcome.html"  on line 30 "&lt;p&gt;上次登录IP：{$smarty.ip[0]}  上次登录时间：{$smarty.now|date_format:'%Y-%m-%d %T'}&lt;/p&gt;" $smarty.ip is invalid
+
+[ 2016-09-06T11:03:20+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/welcome.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Index\welcome.html"  on line 30 "&lt;p&gt;上次登录IP：{$smarty.ip}  上次登录时间：{$smarty.now|date_format:'%Y-%m-%d %T'}&lt;/p&gt;" $smarty.ip is invalid
+
+[ 2016-09-06T11:05:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/welcome.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Index\welcome.html"  on line 30 "&lt;p&gt;上次登录IP：{$smarty.ip}  上次登录时间：{$smarty.now|date_format:'%Y-%m-%d %T'}&lt;/p&gt;" $smarty.ip is invalid
+
+[ 2016-09-06T12:17:49+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/U('Admin/Manger/logout')
+ERR: 非法操作:U('Admin
+
+[ 2016-09-06T12:20:20+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-base.html
+ERR: 非法操作:system-base
+
+[ 2016-09-06T12:20:26+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-log.html
+ERR: 非法操作:system-log
+
+[ 2016-09-06T13:37:58+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/%7B:U('Admin/Article/articlelist')%7D
+ERR: 非法操作:{:U('Admin
+
+[ 2016-09-06T13:39:58+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/%7B:U('Admin/Article/articlelist')%7D
+ERR: 非法操作:{:U('Admin
+
+[ 2016-09-06T13:51:28+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/feedback-list.html
+ERR: 非法操作:feedback-list
+
+[ 2016-09-06T13:58:23+08:00 ] 127.0.0.1 /blog/index.php/Admin/RBAC/rolelist.html
+ERR: 无法加载控制器:RBAC
+
+[ 2016-09-06T13:58:24+08:00 ] 127.0.0.1 /blog/index.php/Admin/RBAC/authlist.html
+ERR: 无法加载控制器:RBAC
+
+[ 2016-09-06T13:58:25+08:00 ] 127.0.0.1 /blog/index.php/Admin/RBAC/userlist.html
+ERR: 无法加载控制器:RBAC
+
+[ 2016-09-06T14:00:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/RBAC/rolelist.html
+ERR: 无法加载控制器:RBAC
+
+[ 2016-09-06T14:00:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/RBAC/authlist.html
+ERR: 无法加载控制器:RBAC
+
+[ 2016-09-06T14:00:56+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/rolelist.html
+ERR: 非法操作:rolelist
+
+[ 2016-09-06T14:00:57+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/authlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Auth\authlist.html"  on line 88 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:05:48+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/rolelist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Role\rolelist.html"  on line 101 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:08:24+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 32 "&lt;input type=&quot;text&quot; onfocus=&quot;WdatePicker({maxDate:'#F{$dp.$D(\'datemax\')||\'%y-%M-%d\'}'})&quot; id=&quot;datemin&quot; class=&quot;input-text Wdate&quot; style=&quot;width:120px;&quot;&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:09:27+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 110 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:09:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/My97DatePicker/WdatePicker.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:09:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/icheck/icheck.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:09:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/Hui-iconfont/1.0.7/iconfont.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:09:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/layer/2.1/layer.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:09:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:09:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:09:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/lib/laypage/1.2/laypage.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:12:48+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/authlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Auth\authlist.html"  on line 88 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/icheck/icheck.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/Hui-iconfont/1.0.7/iconfont.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/laypage/1.2/laypage.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/My97DatePicker/WdatePicker.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:13:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:13:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/lib/layer/2.1/layer.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:13:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/Auth/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/rolelist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Role\rolelist.html"  on line 101 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui/css/H-ui.min.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/lib/jquery/1.9.1/jquery.min.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/lib/layer/2.1/layer.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/lib/Hui-iconfont/1.0.7/iconfont.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:14:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T14:14:22+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/lib/My97DatePicker/WdatePicker.js
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:14:22+08:00 ] 127.0.0.1 /blog/index.php/Admin/Role/lib/icheck/icheck.css
+ERR: 非法操作:lib
+
+[ 2016-09-06T14:27:30+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 72 "{endforeach}" unknown tag "endforeach"
+
+[ 2016-09-06T14:27:37+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 72 "{/endforeach}" unknown tag "endforeachclose"
+
+[ 2016-09-06T16:00:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/feedback-list.html
+ERR: 非法操作:feedback-list
+
+[ 2016-09-06T18:11:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '' in 'field list'
+
+[ 2016-09-06T18:16:48+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 68 "&lt;td&gt;{if $role['role_id']==$manger['user_role_id'] $role['role_name']}{/if}&lt;/td&gt;" too many shorthand attributes
+
+[ 2016-09-06T18:17:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/userlist.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\userlist.html"  on line 68 "&lt;td&gt;{if $role['role_id']==$manger['user_role_id'] $role['role_name']}&lt;/td&gt;{/if}" too many shorthand attributes
+
+[ 2016-09-06T18:22:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-09-06T18:22:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/mangeradd.html
+ERR: 非法操作:mangeradd
+
+[ 2016-09-06T18:22:49+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-09-06T18:22:51+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:22:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:23:07+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:23:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:26:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:26:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:27:20+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:27:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:28:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:28:18+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:28:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:28:56+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:29:15+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:29:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:29:46+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:29:47+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:30:15+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:30:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:46:36+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:46:37+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:47:56+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:47:57+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:48:25+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:48:26+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:50:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:50:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:53:42+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-09-06T18:53:43+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/mangeredit.html
+ERR: 非法操作:mangeredit
+
+[ 2016-09-06T18:54:44+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T18:54:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T19:15:25+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/mangeredit/user_id/4
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Manger\mangeredit.html"  on line 85 "&lt;option value=&quot;{$role.role_id}&quot; {if $jutirole['role_id']==$role[;role_id]} selected='selected' {/if}&gt;{$role.role_name}&lt;/option&gt;"  - Unexpected ";"
+
+[ 2016-09-06T19:42:09+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/mangerdel/user_id/4
+ERR: 非法操作:mangerdel
+
+[ 2016-09-06T19:45:23+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+
+[ 2016-09-06T19:45:24+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-06T19:46:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/article-add.html
+ERR: 非法操作:article-add
+
+[ 2016-09-06T19:46:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/product-add.html
+ERR: 非法操作:product-add
+
+[ 2016-09-06T19:46:57+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/member-add.html
+ERR: 非法操作:member-add
+

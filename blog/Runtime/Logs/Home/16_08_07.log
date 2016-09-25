@@ -1,0 +1,306 @@
+[ 2016-08-07T09:17:35+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: Unkown resource type 'in'
+
+[ 2016-08-07T09:29:41+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Index\index.html"  on line 103 "&lt;script&gt;window._bd_share_config={&quot;common&quot;:{&quot;bdSnsKey&quot;:{},&quot;bdText&quot;:&quot;&quot;,&quot;bdMini&quot;:&quot;2&quot;,&quot;bdMiniList&quot;:false,&quot;bdPic&quot;:&quot;&quot;,&quot;bdStyle&quot;:&quot;1&quot;,&quot;bdSize&quot;:&quot;32&quot;},&quot;share&quot;:{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];&lt;/script&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-07T09:30:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T09:30:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/css/index.css
+ERR: 非法操作:css
+
+[ 2016-08-07T09:30:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:js
+
+[ 2016-08-07T09:30:24+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:30:24+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:30:25+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:31:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:31:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:31:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:31:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:js
+
+[ 2016-08-07T09:32:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:32:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:32:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T09:32:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/js/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:js
+
+[ 2016-08-07T09:32:36+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:37:30+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:38:19+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:39:37+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:40:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:47:18+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:47:41+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:48:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:49:11+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:50:08+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408480
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T09:57:40+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/news.html
+ERR: 非法操作:news
+
+[ 2016-08-07T10:04:20+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/learn
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\learn.html"  on line 267 "var duoshuoQuery = {short_name:&quot;yangqq&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-07T10:04:40+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:04:41+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/about.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:04:41+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:04:41+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:04:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:10+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:10+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:10+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:29+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:29+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:05:29+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:06:30+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/learn
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\learn.html"  on line 267 "var duoshuoQuery = {short_name:&quot;yangqq&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/learn.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/c.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:07:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:07:53+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:13:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:13:23+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/book.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:13:27+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:13:27+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/book.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:13:51+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:13:51+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/book.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:16:40+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/news
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\news.html"  on line 246 "var duoshuoQuery = {short_name:&quot;yangqq&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-07T10:17:12+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:17:12+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:17:12+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/style.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:17:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/c.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:14+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:14+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:14+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/c.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:17:54+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:21:34+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/index.html
+ERR: 非法操作:index
+
+[ 2016-08-07T10:24:21+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:21+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:21+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/mood.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:21+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:28+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/mood.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:28+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:28+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/mood.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-07T10:24:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:57+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:57+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:57+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:58+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:24:58+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-07T10:28:29+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/index.html
+ERR: 非法操作:index
+
+[ 2016-08-07T10:28:39+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408481
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T10:28:50+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-08-07T10:28:55+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408481
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-07T10:31:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/index.html
+ERR: 非法操作:index
+
+[ 2016-08-07T13:31:15+08:00 ] 127.0.0.1 /blog/index.php/Home/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408484
+ERR: 无法加载控制器:{$smarty.const.HOME_JS_URL}
+

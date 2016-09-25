@@ -1,0 +1,6 @@
+[ 2016-08-05T08:49:30+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/article-add.html
+ERR: 非法操作:article-add
+
+[ 2016-08-05T09:36:21+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/articleadd.html
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Article\articleadd.html"  on line 114 "&lt;input type=&quot;text&quot; onfocus=&quot;WdatePicker({dateFmt:'yyyy-MM-dd HH:mm:ss',maxDate:'#F{$dp.$D(\'datemax\')||\'%y-%M-%d\'}'})&quot; id=&quot;datemin&quot; class=&quot;input-text Wdate&quot;&gt;"  - Unexpected ":", expected one of: "}" , " "
+

@@ -1,0 +1,135 @@
+[ 2016-08-10T12:34:50+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408555
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T12:48:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408555
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T12:51:53+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/message
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\message.html"  on line 31 "var duoshuoQuery = {short_name:&quot;zhangwx&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-10T17:38:19+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T17:39:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T17:41:02+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: 无法加载控制器:Article
+
+[ 2016-08-10T17:41:30+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: 无法加载控制器:Article
+
+[ 2016-08-10T17:41:32+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: 无法加载控制器:Article
+
+[ 2016-08-10T17:41:57+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: 无法加载控制器:Article
+
+[ 2016-08-10T17:41:58+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: 无法加载控制器:Article
+
+[ 2016-08-10T17:42:42+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Article\newsdetail.html"  on line 112 "&lt;script&gt;window._bd_share_config={&quot;common&quot;:{&quot;bdSnsKey&quot;:{},&quot;bdText&quot;:&quot;&quot;,&quot;bdMini&quot;:&quot;2&quot;,&quot;bdMiniList&quot;:false,&quot;bdPic&quot;:&quot;&quot;,&quot;bdStyle&quot;:&quot;1&quot;,&quot;bdSize&quot;:&quot;32&quot;},&quot;share&quot;:{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];&lt;/script&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-10T17:43:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Article\newsdetail.html"  on line 127 "var duoshuoQuery = {short_name:&quot;yangqq&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-10T17:43:43+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Article\newsdetail.html"  on line 127 "var duoshuoQuery = {short_name:&quot;yangqq&quot;};"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-10T17:44:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/css/base.css
+ERR: 非法操作:css
+
+[ 2016-08-10T17:44:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:14+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/css/lrtk.css
+ERR: 非法操作:css
+
+[ 2016-08-10T17:44:14+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/css/new.css
+ERR: 非法操作:css
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/c.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/js.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/i.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/c.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/cnw.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/silder.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-08-10T17:44:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/js/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:js
+
+[ 2016-08-10T17:45:11+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T17:46:57+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T17:47:25+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T17:47:34+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408560
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-10T18:07:53+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/1
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:09:02+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/1
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:09:04+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/1
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:09:05+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/1
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:09:16+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/5
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:12+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/9
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:15+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/5
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:17+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:19+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:22+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/6
+ERR: 参数错误或者未定义:article_id
+
+[ 2016-08-10T18:11:34+08:00 ] 127.0.0.1 /blog/index.php/Home/Article/newsdetail/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408561
+ERR: 参数错误或者未定义:article_id
+

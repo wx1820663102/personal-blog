@@ -1,0 +1,48 @@
+[ 2016-09-08T07:28:47+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-09-08T07:30:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/member-list.html
+ERR: 非法操作:member-list
+
+[ 2016-09-08T07:30:55+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/member-del.html
+ERR: 非法操作:member-del
+
+[ 2016-09-08T07:31:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/charts-1.html
+ERR: 非法操作:charts-1
+
+[ 2016-09-08T07:31:07+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-base.html
+ERR: 非法操作:system-base
+
+[ 2016-09-08T07:31:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-shielding.html
+ERR: 非法操作:system-shielding
+
+[ 2016-09-08T07:31:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-log.html
+ERR: 非法操作:system-log
+
+[ 2016-09-08T07:31:15+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-shielding.html
+ERR: 非法操作:system-shielding
+
+[ 2016-09-08T07:31:15+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-data.html
+ERR: 非法操作:system-data
+
+[ 2016-09-08T07:31:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-category.html
+ERR: 非法操作:system-category
+
+[ 2016-09-08T07:31:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/system-base.html
+ERR: 非法操作:system-base
+
+[ 2016-09-08T07:37:49+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/categoryadd.html
+ERR: 非法操作:categoryadd
+
+[ 2016-09-08T07:38:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/mangeradd.html
+ERR: 非法操作:mangeradd
+
+[ 2016-09-08T07:38:20+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/tagadd.html
+ERR: 非法操作:tagadd
+
+[ 2016-09-08T07:47:04+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui.admin/js/H-ui.admin.js
+ERR: 非法操作:static
+
+[ 2016-09-08T07:47:05+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/static/h-ui/js/H-ui.js
+ERR: 非法操作:static
+

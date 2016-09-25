@@ -1,0 +1,75 @@
+[ 2016-08-09T08:11:47+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408527
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T08:12:10+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408527
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T08:46:33+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/talk
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\talk.html"  on line 35 "&lt;div class=&quot;sy&quot;&gt;&lt;p&gt;&lt;img src=&quot;{$amrty.const.SITE_URL}/{$artinfo[]'thumb_pic'}&quot; alt=&quot;{$artinfo['remark']}&quot; /&gt;{$artinfo['remark']}&lt;/p&gt;&lt;/div&gt;"  - Unexpected "'thumb_pic'", expected one of: "}" , " "
+
+[ 2016-08-09T08:51:47+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408527
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T09:02:49+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408528
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T09:02:53+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408528
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T10:06:04+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/news
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:00:52+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408530
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T11:02:11+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/learn.htmlweb/2015-02-25/745.html
+ERR: 非法操作:learn.htmlweb
+
+[ 2016-08-09T11:06:55+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'IN = '2,3,6' ORDER BY pubtime desc LIMIT 5' at line 1
+
+[ 2016-08-09T11:09:46+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:12:10+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:12:11+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:12:13+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:12:32+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'in ) AND (  4,5 ) ORDER BY pubtime desc LIMIT 5' at line 1
+
+[ 2016-08-09T11:12:33+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'in ) AND (  4,5 ) ORDER BY pubtime desc LIMIT 5' at line 1
+
+[ 2016-08-09T11:12:33+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'in ) AND (  4,5 ) ORDER BY pubtime desc LIMIT 5' at line 1
+
+[ 2016-08-09T11:13:59+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:14:00+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:18:06+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:18:07+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/index
+ERR: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'category_id' in where clause is ambiguous
+
+[ 2016-08-09T11:18:39+08:00 ] 127.0.0.1 /blog/index.php/Home/Index/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408530
+ERR: 非法操作:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T13:29:19+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/news
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'pubtime' in 'order clause'
+
+[ 2016-08-09T15:40:31+08:00 ] 127.0.0.1 /blog/index.php/%7B$smarty.const.HOME_JS_URL%7D/share.js?v=89860593.js?cdnversion=408534
+ERR: 无法加载控制器:{$smarty.const.HOME_JS_URL}
+
+[ 2016-08-09T15:50:51+08:00 ] 127.0.0.1 /blog/index.php/Home/Category/news
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Home/View\Category\news.html"  on line 262 "{foreach}" missing "from" attribute
+

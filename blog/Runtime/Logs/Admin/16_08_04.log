@@ -1,0 +1,84 @@
+[ 2016-08-04T08:13:32+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/product-category.html
+ERR: 非法操作:product-category
+
+[ 2016-08-04T08:19:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/userlist
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Category\userlist.html"  on line 32 "&lt;input type=&quot;text&quot; onfocus=&quot;WdatePicker({maxDate:'#F{$dp.$D(\'datemax\')||\'%y-%M-%d\'}'})&quot; id=&quot;datemin&quot; class=&quot;input-text Wdate&quot; style=&quot;width:120px;&quot;&gt;"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-04T08:19:50+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/userlist
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Category\userlist.html"  on line 109 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-04T08:19:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/userlist
+ERR: Syntax Error in template "D:/php/WWW/chuanzhi/tpblog/blog/Admin/View\Category\userlist.html"  on line 109 "layer.msg('已删除!',{icon:1,time:1000});"  - Unexpected ":", expected one of: "}" , " "
+
+[ 2016-08-04T08:27:54+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:29:41+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T08:30:42+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:30:44+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T08:30:45+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/%7B$smarty.const.__CONTROLLER__%7D/categoryadd.html
+ERR: 非法操作:{$smarty.const.__CONTROLLER__}
+
+[ 2016-08-04T08:32:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:32:32+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T08:33:13+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:33:35+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:34:43+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:35:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:36:22+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:36:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:37:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:38:03+08:00 ] 127.0.0.1 /blog/index.php/Admin/welcome.html
+ERR: 无法加载控制器:Welcome
+
+[ 2016-08-04T08:42:26+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/article-zhang.html
+ERR: 非法操作:article-zhang
+
+[ 2016-08-04T08:46:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/Article/article-add.html
+ERR: 非法操作:article-add
+
+[ 2016-08-04T08:50:07+08:00 ] 127.0.0.1 /blog/index.php/Admin/Tag/tagadd.html
+ERR: 非法操作:tagadd
+
+[ 2016-08-04T08:50:08+08:00 ] 127.0.0.1 /blog/index.php/Admin/Tag/tagedit.html
+ERR: 非法操作:tagedit
+
+[ 2016-08-04T09:18:46+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/articlelist.html
+ERR: 非法操作:articlelist
+
+[ 2016-08-04T09:41:51+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T09:43:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T09:43:19+08:00 ] 127.0.0.1 /blog/index.php/Admin/Category/admin-add.html
+ERR: 非法操作:admin-add
+
+[ 2016-08-04T11:14:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/member-level.html
+ERR: 非法操作:member-level
+

@@ -1,0 +1,6 @@
+[ 2016-09-10T10:06:30+08:00 ] 127.0.0.1 /blog/index.php/Admin/Manger/logout
+ERR: 无法加载控制器:Admin
+
+[ 2016-09-10T10:06:36+08:00 ] 127.0.0.1 /blog/index.php/welcome.html
+ERR: 无法加载控制器:Welcome
+
